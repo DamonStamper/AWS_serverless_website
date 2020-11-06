@@ -1,0 +1,3 @@
+region = "us-east-1"
+resource_prefix = "664765c5765b447bb59614be7a27880c"
+Website_Domain_Name = "decade-old-oak.me.uk" # Please note, you must manually register this name. Registering a domain name is a 12 month commitment and Terraform doesn't do this.
